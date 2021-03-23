@@ -21,15 +21,16 @@ h2 {
     color: rgb(110, 109, 109);
     text-shadow: black .25px .25px, black .25px .25px, black .25px .25px, black .25px .25px;
 }
-.subHead{
-    font-size: smaller;
+#slogan{
+    margin-top: 0px;
+    
 }
+
 h3{
     color: rgb(178, 126, 126);
 }
 li{
-    text-shadow: black .25px .25px, black .25px .25px, black .25px .25px, black .25px .25px;
-    color:lightgrey;
+    color:rgb(210, 105, 105);
     margin-left: 23px;
 }
 main{
@@ -43,6 +44,11 @@ footer{
     max-height: auto;
     max-width: 800px;
     margin: auto;
+}
+.info{
+    color: rgb(210, 105, 105);
+    text-shadow: black .25px .25px, black .25px .25px, black .25px .25px, black .25px .25px;
+    padding-left: 46px;
 }
 footer p{
     color: rgb(43, 39, 39);
