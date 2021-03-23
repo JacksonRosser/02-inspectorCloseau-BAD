@@ -8,7 +8,7 @@ let offset = `Window offset ${window.screenX}px from the left edge and ${window.
 let urlInfo = `This page's URL is ${window.location}`
 let myWindow = document.querySelector("#windowProp").innerText="❌"+ windowSizes + '\n' + "❌"+ offset + '\n' + "❌"+ urlInfo
 } 
-
+ 
 reDisplay()
 let docTitle = document.title    
 let modTim = (document.lastModified)  
