@@ -23,7 +23,7 @@ h2 {
 }
 #slogan{
     margin-top: 0px;
-    
+
 }
 
 h3{
@@ -43,7 +43,7 @@ footer{
     background-color: rgb(210, 105, 105);
     max-height: auto;
     max-width: 800px;
-    margin: auto;
+    margin: auto; 
 }
 .info{
     color: rgb(210, 105, 105);
