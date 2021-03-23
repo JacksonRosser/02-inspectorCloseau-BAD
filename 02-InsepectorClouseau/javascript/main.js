@@ -10,7 +10,7 @@ let myWindow = document.querySelector("#windowProp").innerText="❌"+ windowSize
 } 
 
 reDisplay()
-let docTitle = document.title  
-let modTim = (document.lastModified)
+let docTitle = document.title    
+let modTim = (document.lastModified)  
 document.querySelector("#documentProp").innerText= "❌"+ "The title of this document is " + docTitle + "." + '\n' +
-"❌"+"The last time this document was modified was " + modTim + "."
+"❌"+"The last time this document was modified was " + modTim + "."  

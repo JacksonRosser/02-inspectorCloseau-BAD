@@ -41,7 +41,7 @@ footer{
     display: flex;
     justify-content: center;
     background-color: rgb(210, 105, 105);
-    max-height: auto;
+    max-height: auto;  
     max-width: 800px;
     margin: auto; 
 }
