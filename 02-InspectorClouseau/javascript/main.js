@@ -3,12 +3,12 @@ document.querySelector("#slogan").innerText = "Police Detective of the French S�
 
 function reDisplay() {
 let windowSizes = `The Window size is ${window.innerWidth}px wide by ${window.innerHeight}px tall.`
-
+ 
 let offset = `Window offset ${window.screenX}px from the left edge and ${window.screenY}px from the top of the display.`
 let urlInfo = `This page's URL is ${window.location}`
 let myWindow = document.querySelector("#windowProp").innerText="❌"+ windowSizes + '\n' + "❌"+ offset + '\n' + "❌"+ urlInfo
 } 
- 
+
 reDisplay()
 let docTitle = document.title    
 let modTim = (document.lastModified)  
